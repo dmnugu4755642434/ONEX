@@ -14,3 +14,5 @@ INSTALLATION :
 * $ chmod +x * 
 * $ bash install 
 * $ onex start
+
+![Screenshot_2020-06-08-16-45-46-95](https://user-images.githubusercontent.com/75029023/111863645-c39f5c00-8997-11eb-8b48-7521388ca779.png)
