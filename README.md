@@ -10,15 +10,21 @@
 ```
 $ pkg up -y 
 ```
+```
 $ pkg install git -y 
+```
 ```
 $ git clone https://github.com/rajkumardusad/onex 
 ```
+```
 $ cd onex 
+```
 ```
 $ chmod +x * 
 ```
+```
 $ bash install 
+```
 ```
 $ onex start
 ```
