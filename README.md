@@ -2,11 +2,11 @@
 
 
 
-### 𝐎𝐧𝐞𝐱
+### ༒︎᯾𝐎𝐧𝐞𝐱᯾༒︎
 
 > onex is a hacking tool installer and package manager for hackers. Onex is a library of all hacking tools for Termux and other Linux distributions. onex can install any third party tool or any hacking tool for you.  
 
-### 𝙸𝙽𝚂𝚃𝙰𝙻𝙻𝙰𝚃𝙸𝙾𝙽 : 
+### ✰𝙸𝙽𝚂𝚃𝙰𝙻𝙻𝙰𝚃𝙸𝙾𝙽✰ : 
 ```
 $ pkg up -y 
 ```
@@ -29,3 +29,6 @@ $ bash install
 $ onex start
 ```
 ![Screenshot_2020-06-08-16-45-46-95](https://user-images.githubusercontent.com/75029023/111863645-c39f5c00-8997-11eb-8b48-7521388ca779.png)
+
+### ⚠️ 𝙻𝙴𝙶𝙰𝙻 𝙳𝙸𝚂𝙲𝙻𝙰𝙸𝙼𝙴𝚁 ⚠️ 
+> Usage of Onex for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program.
